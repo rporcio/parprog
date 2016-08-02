@@ -1,0 +1,64 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/common/package.scala, /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/LineOfSight.scala, /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelCountChange.scala, /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/common/package.scala, /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/LineOfSight.scala, /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelCountChange.scala, /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/common/package.scala, /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/LineOfSight.scala, /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelCountChange.scala, /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 4 Scala sources to /Users/rporcio/Development/coursera/progfun3/reductions/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 11e6ec7b, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/classes:/Users/rporcio/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/rporcio/Development/coursera/progfun3/reductions/target/scala-2.11/classes:/Users/rporcio/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.4.jar:/Users/rporcio/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.2.jar:/Users/rporcio/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/Users/rporcio/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar:/Users/rporcio/.ivy2/cache/org.apache.commons/commons-math3/jars/commons-math3-3.2.jar:/Users/rporcio/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.1.jar:/Users/rporcio/.ivy2/cache/com.github.scala-blitz/scala-blitz_2.11/jars/scala-blitz_2.11-1.1.jar:/Users/rporcio/.ivy2/cache/org.scala-lang.modules/scala-swing_2.11/bundles/scala-swing_2.11-1.0.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 9.530411302 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/common/package.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/common/package.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/common/package.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, package, wait, task, $asInstanceOf, DefaultTaskScheduler, equals, asInstanceOf, synchronized, $isInstanceOf, forkJoinPool, notifyAll, isInstanceOf, <init>, scheduler, ==, TaskScheduler, clone, schedule, toString, !=, getClass, ne, eq, parallel, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala: Set(package, <init>, ==, ne, parallel)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelCountChange.scala: Set(package, <init>, ==, ne, parallel)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/LineOfSight.scala: Set(package, asInstanceOf, isInstanceOf, <init>, ==, toString, ne, eq, parallel)[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/LineOfSight.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/LineOfSight.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/LineOfSight.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/LineOfSight.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/LineOfSight.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, curried, upsweep, wait, copy$default$2, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, left, Tree, $isInstanceOf, Node, LineOfSightRunner, tupled, upsweepSequential, lineOfSight, canEqual, main, Leaf, productPrefix, until, notifyAll, readResolve, isInstanceOf, downsweepSequential, downsweep, <init>, max, parLineOfSight, apply, ==, clone, from, copy$default$3, copy, toString, standardConfig, !=, LineOfSight, getClass, copy$default$1, ne, eq, productIterator, right, ##, finalize, productElement, hashCode, maxPrevious.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelCountChange.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelCountChange.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelCountChange.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelCountChange.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelCountChange.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, Threshold, wait, ParallelCountChangeRunner, $asInstanceOf, equals, combinedThreshold, moneyThreshold, asInstanceOf, synchronized, parResult, $isInstanceOf, ParallelCountChange, main, notifyAll, isInstanceOf, ==, clone, toString, standardConfig, !=, getClass, seqResult, countChange, ne, totalCoinsThreshold, parCountChange, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/rporcio/Development/coursera/progfun3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, parResult, $isInstanceOf, parBalance, balance, main, notifyAll, isInstanceOf, ==, clone, ParallelParenthesesBalancingRunner, toString, standardConfig, !=, getClass, seqResult, ne, eq, ##, finalize, hashCode, ParallelParenthesesBalancing.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
